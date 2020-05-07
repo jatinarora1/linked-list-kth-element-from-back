@@ -82,5 +82,5 @@ int main()
     node* x=kthfromback(head);
     cout<<x->data;
     //display(head);
-
+ 
 }
